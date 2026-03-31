@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am an AI/ML Engineer with a strong foundation in machine learning, deep learning, and data-driven system design. My work focuses on developing, optimizing, and deploying scalable AI solutions across domains such as computer vision, natural language processing, and data engineering. I have hands-on experience with end-to-end ML workflows, including data preprocessing, model training, evaluation, and production deployment, with an emphasis on reliability and real-world applicability.<br>I am particularly interested in building robust deep learning models, applying transfer learning, and integrating MLOps best practices to ensure reproducibility, monitoring, and scalability. I value clarity in problem formulation, efficiency in implementation, and alignment with current industry standards. My approach combines strong theoretical understanding with practical engineering execution to deliver AI systems that perform effectively in real-world environments.
+I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, with a solid foundation in machine learning, deep learning, and data-driven system design. I am actively developing my skills by building and experimenting with real-world AI solutions across domains such as computer vision, natural language processing, and data engineering.
+
+I have hands-on experience with end-to-end machine learning workflows, including data preprocessing, model development, evaluation, and basic deployment. My focus is on writing efficient, scalable code and understanding how models perform in practical scenarios rather than just theoretical settings.
+
+I am particularly interested in deep learning, transfer learning, and applying MLOps concepts such as reproducibility, versioning, and model monitoring. I continuously explore modern tools and frameworks to improve my development process and align with industry practices.
+
+My approach emphasizes clear problem understanding, structured implementation, and continuous improvement through experimentation and learning. I aim to build AI systems that are not only accurate but also reliable and applicable in real-world use cases.
 
 
 ## 🌐 Socials:

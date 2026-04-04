@@ -1,2 +1,2 @@
 CS Engineering Student | AI & ML Specialist
-Focused on building scalable AI solutions with expertise in Deep Learning, CV, and NLP. Passionate about MLOps, model optimization, and transitioning research into reliable, real-world engineering workflows.
+Focused on building scalable AI solutions with expertise in Deep Learning, CV, and NLP. Passionate about MLOps, model optimization, and transitioning research into reliable, real-world engineering workflows....

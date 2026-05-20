@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm Chandan Sah 👋
+# Hi, I'm Chandan Kumar Sah 👋
 
-### AI/ML Engineering Student | Machine Learning Developer | Building Real-World AI Projects
+### AI/ML Engineering Student | Machine Learning Enthusiast | Future AI/ML Engineer
 
-I am an Artificial Intelligence and Machine Learning student passionate about building practical AI systems, machine learning models, and intelligent applications.  
-My interests include Machine Learning, Deep Learning, Computer Vision, NLP, MLOps, and scalable AI deployment.
+I am an Artificial Intelligence and Machine Learning student passionate about building real-world AI solutions using Machine Learning, Deep Learning, Computer Vision, NLP, and MLOps.
+
+I enjoy learning new technologies, building practical projects, and improving my skills in AI engineering, model development, and deployment.
 
 </div>
 
@@ -14,15 +15,15 @@ My interests include Machine Learning, Deep Learning, Computer Vision, NLP, MLOp
 ## 🚀 About Me
 
 - 🎓 AI/ML Engineering student
-- 🤖 Interested in Machine Learning, Deep Learning, NLP, Computer Vision, and MLOps
-- 🧠 Building projects that solve real-world problems using AI
-- 🛠️ Learning model development, optimization, deployment, and production AI workflows
-- 🌱 Currently improving my skills in Python, ML algorithms, React, FastAPI, Docker, and cloud-based deployment
-- 📌 Goal: Become a skilled AI/ML Engineer and contribute to impactful AI products
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 🧠 Interested in Machine Learning, Deep Learning, NLP, Computer Vision, and MLOps
+- 🛠️ Building projects to solve real-world problems using AI
+- 🌱 Currently learning advanced ML algorithms, deep learning, model deployment, and production AI workflows
+- 🎯 Goal: Become a skilled AI/ML Engineer and work on impactful AI products
 
 ---
 
-## 🧠 My AI/ML Domain Interests
+## 🧠 My Interests
 
 ```text
 Machine Learning        ████████████████████
@@ -30,19 +31,19 @@ Deep Learning           ████████████████░░�
 Computer Vision         ███████████████░░░░░
 Natural Language Proc.  ███████████████░░░░░
 MLOps & Deployment      ████████████░░░░░░░░
-Data Engineering        ███████████░░░░░░░░░
 Generative AI / LLMs    ████████████░░░░░░░░
+Data Engineering        ███████████░░░░░░░░░
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
-### Programming Languages
+### Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI/ML & Data Science
 
@@ -50,20 +51,18 @@ Generative AI / LLMs    ████████████░░░░░░�
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
 
-### Deep Learning
+### Deep Learning & Computer Vision
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Web, Backend & Deployment
+### Web & Deployment
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Tools & Platforms
@@ -71,44 +70,32 @@ Generative AI / LLMs    ████████████░░░░░░�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge)
 
 ---
 
-## 📌 Featured Projects
+## 📌 What I Am Working On
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Complete ML Tree** | Interactive Machine Learning knowledge tree covering algorithms, concepts, and definitions | React, ML Concepts |
-| **Heart Disease Prediction** | ML model for predicting heart disease risk using patient health features | Python, Scikit-learn |
-| **HaemaScan Visual Anaemia Detection System** | Computer vision based system for anaemia-related visual analysis | Python, OpenCV, ML |
-| **MindCare AI** | AI-based mental health support and assistance project | Python, AI, Web |
-| **Shadow Supervisor OpenEnv** | Agent/environment based AI project built for OpenEnv-style workflows | Python, AI Agents |
-
----
-
-## 📚 Currently Learning
-
-- Advanced Machine Learning algorithms
-- Deep Learning with PyTorch and TensorFlow
-- Computer Vision and image-based AI systems
-- NLP and Large Language Models
-- MLOps, Docker, CI/CD, and model deployment
-- Building clean AI project portfolios for real-world use cases
+- Building AI/ML projects for my portfolio
+- Improving my understanding of ML algorithms
+- Learning end-to-end model deployment
+- Exploring Computer Vision and NLP applications
+- Strengthening my GitHub and LinkedIn profile
+- Preparing for AI/ML internships and job opportunities
 
 ---
 
 ## 🎯 Career Focus
 
-My main focus is to grow as an **AI/ML Engineer** by building strong skills in:
+I am focused on becoming an **AI/ML Engineer** with strong practical skills in:
 
 - Data preprocessing and feature engineering
-- ML model development and evaluation
-- Deep learning model training
-- Model deployment using APIs and cloud platforms
-- End-to-end AI product development
-- MLOps and production ML systems
+- Machine Learning model training and evaluation
+- Deep Learning model development
+- Computer Vision and NLP applications
+- Model deployment using APIs
+- MLOps and production-ready AI systems
 
 ---
 
@@ -140,6 +127,6 @@ My main focus is to grow as an **AI/ML Engineer** by building strong skills in:
 
 <div align="center">
 
-### 🚀 Building AI projects. Learning every day. Growing as an AI/ML Engineer.
+### 🚀 Learning AI. Building projects. Growing every day.
 
 </div>

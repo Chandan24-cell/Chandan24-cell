@@ -1,8 +1,8 @@
-Hi, I'm Chandan 👋
+# Hi, I'm Chandan Kumar Sah 👋
 
-I'm an AI/ML Engineering student specializing in machine learning, deep learning, computer vision, NLP, MLOps, and AI-powered applications.
+I'm an AI/ML Engineering student focused on building practical machine learning systems using Python, computer vision, NLP, and MLOps.
 
-My work focuses on building practical AI projects, learning production-ready machine learning workflows, and improving my skills through open-source projects and real-world implementations.
+Currently, I am improving my skills in end-to-end ML development, model deployment, FastAPI, Docker, and real-world AI applications.
 
 ### Links
 

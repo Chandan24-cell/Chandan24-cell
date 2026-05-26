@@ -1,4 +1,4 @@
-# Hi, I'm Chandan Kumar Sah 👋
+# Hi, I'm Chandan👋
 
 I'm an AI/ML Engineering student focused on building practical machine learning systems using Python, computer vision, NLP, and MLOps.
 

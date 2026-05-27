@@ -21,7 +21,7 @@ Currently, I am improving my skills in end-to-end ML development, model deployme
 
 ### Pinned Projects
 
-- [Complete ML Tree](https://github.com/Chandan24-cell/Complete_ML-Tree) — Interactive machine learning knowledge tree.
+- [Complete ML Tree](https://github.com/Chandan24-cell/ML-Tree.git) — Interactive machine learning knowledge tree.
 - [MindCare AI](https://github.com/Chandan24-cell/mindcare-ai) — AI-based mental health support project.
 - [Shadow Supervisor OpenEnv](https://github.com/Chandan24-cell/Shadow_Supervisor-OpenEnv) — AI agent/environment workflow project.
 - [OpenEnv](https://github.com/Chandan24-cell/OpenEnv) — Open environment AI experimentation repository.

@@ -16,18 +16,18 @@ My Portfolio:
 
 ### Current Focus
 
-- Building end-to-end AI/ML projects
+- Building end-to-end AI and DEEP LEARNING projects
 - Learning deep learning for computer vision and NLP
 - Improving model deployment using FastAPI, Docker, and cloud tools
 - Exploring AI agents and OpenEnv-style workflows
-- Building AI-powered healthcare and cybersecurity tools
-- Strengthening my GitHub portfolio for AI/ML internships and jobs
+- Building AI-powered healthcare and cybersecurity with ML tools
+
 
 ### Pinned Projects
 
-- [Complete ML Tree](https://github.com/Chandan24-cell/ML-Tree.git) — Interactive machine learning knowledge tree.
+- [Complete ML Tree](https://github.com/Chandan24-cell/ML-Tree.git) — Interactive machine learning RoadMap tree with thier concputal defination.
 - [MindCare AI](https://github.com/Chandan24-cell/mindcare-ai) — AI-based mental health support project.
-- [Shadow Supervisor OpenEnv](https://github.com/Chandan24-cell/Shadow_Supervisor-OpenEnv) — AI agent/environment workflow project.
-- [OpenEnv](https://github.com/Chandan24-cell/OpenEnv) — Open environment AI experimentation repository.
+- [Shadow Supervisor OpenEnv](https://github.com/Chandan24-cell/Shadow_Supervisor-OpenEnv) — AI agent/environment workflow for multi agent failure project.
+- [OpenEnv](https://github.com/Chandan24-cell/OpenEnv) — Open environment AI experimentation for agent environment_state , reward , action.
 - [HaemaScan Visual Anaemia Detection System](https://github.com/Chandan24-cell/HaemaScan-Visual-Anaemia-Detection-System) — Computer vision based healthcare AI project.
 - [NetSentinelAI](https://github.com/Chandan24-cell/NetSentinelAI) — AI-powered network security monitoring project.

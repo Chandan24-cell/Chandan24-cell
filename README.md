@@ -7,6 +7,16 @@ Currently, I am improving my skills in end-to-end ML development, model deployme
 
 My Portfolio:  
 [https://chandan24-cell.github.io/My-Portfolio/](https://chandan24-cell.github.io/My-Portfolio/)
+## 📄 My CV & Resume
+
+[![CV](https://img.shields.io/badge/View-CV-blue?style=for-the-badge&logo=google-docs)](https://docs.google.com/document/d/1wXsDjTfa7AVwlyYHEyShtyr2UZNO9Q-xs2qiUNL6umU/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/View-Resume-green?style=for-the-badge&logo=google-docs)](https://docs.google.com/document/d/1UhWtzZ4qRd5YYW0jAaErQsxDtaJVYNb01jNqDzV6rAo/edit?usp=sharing)
+
+---
+
+### 📌 Direct Links
+- [Open CV](https://docs.google.com/document/d/1wXsDjTfa7AVwlyYHEyShtyr2UZNO9Q-xs2qiUNL6umU/edit?usp=sharing)  
+- [Open Resume](https://docs.google.com/document/d/1UhWtzZ4qRd5YYW0jAaErQsxDtaJVYNb01jNqDzV6rAo/edit?usp=sharing)
 
 ### Links
 
